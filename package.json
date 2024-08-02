@@ -23,5 +23,8 @@
   "homepage": "https://github.com/freddiefujiwara/learn_ml_by_coding.js#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "n-readlines": "^1.0.1"
   }
 }
